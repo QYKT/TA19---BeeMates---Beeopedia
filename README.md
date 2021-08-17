@@ -1,5 +1,3 @@
-FIT5120
-
 Team Name: BeeMates
 
 Team Number: TA19
