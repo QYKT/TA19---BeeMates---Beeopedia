@@ -1,6 +1,9 @@
 FIT5120
+
 Team Name: BeeMates
+
 Team Number: TA19
+
 Project Title: Beeopedia
 
 This is an Industry Experience project for FIT5120 course at Monash University. 
